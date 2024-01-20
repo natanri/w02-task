@@ -5,7 +5,7 @@
 /* Step 2 - Variables */
 let fullName = 'Jhonatan Rios Vargas';
 let currentYear = 2024;
-let profilePicture = '/images/profile2.jpg'
+let profilePicture = 'https://natanri.github.io/images/profile2.jpg'
 
 
 /* Step 3 - Element Variables */
